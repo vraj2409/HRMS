@@ -1,0 +1,6 @@
+{
+  "name": "Full Stack HRMS",
+  "description": "A comprehensive Full Stack HRMS with an interactive employee portal, secure role-based access control (HR/Employee), real-time notifications, attendance tracking, leave/WFH/OT requests management, S3-powered documents storage, and rich dashboard visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
