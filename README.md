@@ -93,15 +93,6 @@ Start the production server:
 npm start
 ```
 
-## Demo Login
-
-The app includes preset demo accounts for quick access. A common example is:
-
-- Email: sarah.wilson@originedge.com
-- Password: password123
-
-Other preset users are also available in the login UI.
-
 ## Notes
 
 - The backend is configured to serve the frontend during development.
